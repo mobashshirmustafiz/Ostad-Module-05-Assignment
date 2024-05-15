@@ -1,0 +1,15 @@
+.color {
+  background-color: aqua;
+  text-align: center;
+  padding: 10px;
+}
+
+.nav-drop {
+  --bs-scroll-height: 100px;
+}
+.para-pos {
+  text-align: justify;
+  margin: 0 auto;
+  width: 70%;
+  color: red;
+}
